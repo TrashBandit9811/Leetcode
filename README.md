@@ -30,5 +30,7 @@ Each Python file contains:
 - **Improve problem-solving skills** and coding efficiency 🔥
 - **Track progress over time** 📈
 
+** SOMETIMES I UPLOAD THE NEXT DAY IF I WAS BUSY DURING THE DAY **
+
 Feel free to explore and suggest improvements!  
 Happy coding! 😊
